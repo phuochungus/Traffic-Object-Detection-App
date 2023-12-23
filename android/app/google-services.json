@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956701068394",
+    "project_id": "traffictracking-a103e",
+    "storage_bucket": "traffictracking-a103e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956701068394:android:92d6cbc4f5e51c30eb0e13",
+        "android_client_info": {
+          "package_name": "com.example.do_an_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956701068394-sk40c5j4rbikjbduinuf04iqb73a2cuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArSoK9Wx9Hpe1R9ZywuLEIMVjCtHjO8Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956701068394-d425p8th77n205tikbvc2o9rl0hq9cdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

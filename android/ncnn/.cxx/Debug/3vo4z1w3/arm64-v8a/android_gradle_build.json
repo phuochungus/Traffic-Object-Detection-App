@@ -1,0 +1,56 @@
+{
+  "buildFiles": [
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\glslangTargets-release.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\glslangTargets.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\OSDependentTargets.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ncnn-20220721-android-vulkan\\arm64-v8a\\lib\\cmake\\SPIRVTargets.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVConfig.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules-release.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\opencv-mobile-4.8.0-android\\sdk\\native\\jni\\OpenCVConfig.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\DoAn1\\do_an_1\\android\\ncnn\\.cxx\\Debug\\3vo4z1w3\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\DoAn1\\do_an_1\\android\\ncnn\\.cxx\\Debug\\3vo4z1w3\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "yolov8ncnn",
+      "output": "D:\\DoAn1\\do_an_1\\build\\ncnn\\intermediates\\cxx\\Debug\\3vo4z1w3\\obj\\arm64-v8a\\libyolov8ncnn.so",
+      "runtimeFiles": [
+        "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\24\\libvulkan.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

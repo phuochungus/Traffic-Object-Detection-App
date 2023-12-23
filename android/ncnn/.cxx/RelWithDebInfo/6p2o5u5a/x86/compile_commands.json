@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/DoAn1/do_an_1/android/ncnn/.cxx/RelWithDebInfo/6p2o5u5a/x86",
+  "command": "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov8ncnn_EXPORTS -isystem D:/DoAn1/do_an_1/android/ncnn/src/main/jni/ncnn-20220721-android-vulkan/x86/include/ncnn -isystem D:/DoAn1/do_an_1/android/ncnn/src/main/jni/opencv-mobile-4.8.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles\\yolov8ncnn.dir\\yolov8ncnn.cpp.o -c D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\yolov8ncnn.cpp",
+  "file": "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\yolov8ncnn.cpp"
+},
+{
+  "directory": "D:/DoAn1/do_an_1/android/ncnn/.cxx/RelWithDebInfo/6p2o5u5a/x86",
+  "command": "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov8ncnn_EXPORTS -isystem D:/DoAn1/do_an_1/android/ncnn/src/main/jni/ncnn-20220721-android-vulkan/x86/include/ncnn -isystem D:/DoAn1/do_an_1/android/ncnn/src/main/jni/opencv-mobile-4.8.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles\\yolov8ncnn.dir\\yolo.cpp.o -c D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\yolo.cpp",
+  "file": "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\yolo.cpp"
+},
+{
+  "directory": "D:/DoAn1/do_an_1/android/ncnn/.cxx/RelWithDebInfo/6p2o5u5a/x86",
+  "command": "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov8ncnn_EXPORTS -isystem D:/DoAn1/do_an_1/android/ncnn/src/main/jni/ncnn-20220721-android-vulkan/x86/include/ncnn -isystem D:/DoAn1/do_an_1/android/ncnn/src/main/jni/opencv-mobile-4.8.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles\\yolov8ncnn.dir\\ndkcamera.cpp.o -c D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ndkcamera.cpp",
+  "file": "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\ndkcamera.cpp"
+},
+{
+  "directory": "D:/DoAn1/do_an_1/android/ncnn/.cxx/RelWithDebInfo/6p2o5u5a/x86",
+  "command": "C:\\Users\\PC\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov8ncnn_EXPORTS -isystem D:/DoAn1/do_an_1/android/ncnn/src/main/jni/ncnn-20220721-android-vulkan/x86/include/ncnn -isystem D:/DoAn1/do_an_1/android/ncnn/src/main/jni/opencv-mobile-4.8.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles\\yolov8ncnn.dir\\Classfication.cpp.o -c D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\Classfication.cpp",
+  "file": "D:\\DoAn1\\do_an_1\\android\\ncnn\\src\\main\\jni\\Classfication.cpp"
+}
+]

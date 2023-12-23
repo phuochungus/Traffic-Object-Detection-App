@@ -1,0 +1,3 @@
+D:/DoAn1/do_an_1/android/ncnn/.cxx/Debug/3vo4z1w3/x86_64/CMakeFiles/yolov8ncnn.dir
+D:/DoAn1/do_an_1/android/ncnn/.cxx/Debug/3vo4z1w3/x86_64/CMakeFiles/edit_cache.dir
+D:/DoAn1/do_an_1/android/ncnn/.cxx/Debug/3vo4z1w3/x86_64/CMakeFiles/rebuild_cache.dir

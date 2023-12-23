@@ -1,0 +1,325 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "D:/DoAn1/do_an_1/android/ncnn/.cxx/Debug/3vo4z1w3/x86_64/CMakeFiles/3.18.1-g262b901-dirty/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/android-legacy.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/platforms.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/ndk/23.1.7779620/build/cmake/compiler_id.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "D:/DoAn1/do_an_1/android/ncnn/.cxx/Debug/3vo4z1w3/x86_64/CMakeFiles/3.18.1-g262b901-dirty/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "D:/DoAn1/do_an_1/android/ncnn/.cxx/Debug/3vo4z1w3/x86_64/CMakeFiles/3.18.1-g262b901-dirty/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "opencv-mobile-4.8.0-android/sdk/native/jni/OpenCVConfig-version.cmake"
+		},
+		{
+			"path" : "opencv-mobile-4.8.0-android/sdk/native/jni/OpenCVConfig.cmake"
+		},
+		{
+			"path" : "opencv-mobile-4.8.0-android/sdk/native/jni/abi-x86_64/OpenCVConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindOpenMP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "opencv-mobile-4.8.0-android/sdk/native/jni/abi-x86_64/OpenCVModules.cmake"
+		},
+		{
+			"path" : "opencv-mobile-4.8.0-android/sdk/native/jni/abi-x86_64/OpenCVModules-release.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/ncnn/ncnnConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindOpenMP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindVulkan.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/PC/AppData/Local/Android/Sdk/cmake/3.18.1/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/OSDependentTargets.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/OSDependentTargets-release.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/OGLCompilerTargets.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/OGLCompilerTargets-release.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/glslangTargets.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/glslangTargets-release.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/SPIRVTargets.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/SPIRVTargets-release.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/ncnn/ncnn.cmake"
+		},
+		{
+			"path" : "ncnn-20220721-android-vulkan/x86_64/lib/cmake/ncnn/ncnn-release.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "D:/DoAn1/do_an_1/android/ncnn/.cxx/Debug/3vo4z1w3/x86_64",
+		"source" : "D:/DoAn1/do_an_1/android/ncnn/src/main/jni"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

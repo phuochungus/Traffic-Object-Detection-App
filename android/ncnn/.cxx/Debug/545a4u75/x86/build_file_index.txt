@@ -1,0 +1,17 @@
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\CMakeLists.txt
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\glslangTargets-release.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\glslangTargets.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\ncnn\ncnn-release.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\ncnn\ncnn.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\ncnn\ncnnConfig.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\OGLCompilerTargets-release.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\OGLCompilerTargets.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\OSDependentTargets-release.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\OSDependentTargets.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\SPIRVTargets-release.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\ncnn-20220721-android-vulkan\x86\lib\cmake\SPIRVTargets.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\opencv-mobile-4.8.0-android\sdk\native\jni\abi-x86\OpenCVConfig.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\opencv-mobile-4.8.0-android\sdk\native\jni\abi-x86\OpenCVModules-release.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\opencv-mobile-4.8.0-android\sdk\native\jni\abi-x86\OpenCVModules.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\opencv-mobile-4.8.0-android\sdk\native\jni\OpenCVConfig-version.cmake
+D:\ncnn-android-yolov8\ncnn-android-yolov8\app\src\main\jni\opencv-mobile-4.8.0-android\sdk\native\jni\OpenCVConfig.cmake
